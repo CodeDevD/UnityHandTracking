@@ -2,8 +2,8 @@
 
 An example for marker based hand tracking in Unity for Android
 
-<div align="center">*-----------------------------------------------------English-version-----------------------------------------------------*</div>
-*<div align="center">App is only available in German.</div>*
+<div align="center"><italic>-----------------------------------------------------English-version-----------------------------------------------------</italic></div>
+<div align="center"><italic>App is only available in German.</italic></div>
 
 This project was part of a special exam in my final school tests.
 
