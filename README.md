@@ -13,9 +13,9 @@ In this project I developed an android app, that allows you to interact with a D
 To use this project, you need to add the OpenCV package for Unity. I used OpenCV for Unity 2.3.2.
 
 A full documentation(!in german) can be requested under following email address: daniel.kosin04@gmail.com.
-&nbsp;
-&nbsp;
-<p><div align="center"><em>----------------------------------------------------deutsche Version----------------------------------------------------</em></div></p><br>
+&NewLine;
+&NewLine;
+<div align="center"><em>----------------------------------------------------deutsche Version----------------------------------------------------</em></div><br>
 
 <p>Dieses Projekt war Teil meiner Besonderen Lernleistung fürs Abitur.</p>
 
