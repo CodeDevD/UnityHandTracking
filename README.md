@@ -2,8 +2,8 @@
 
 An example for marker based hand tracking in Unity for Android
 
-<div align="center"><italic>-----------------------------------------------------English-version-----------------------------------------------------</italic></div>
-<div align="center"><italic>App is only available in German.</italic></div>
+<div align="center"><em>-----------------------------------------------------English-version-----------------------------------------------------</em></div>
+<div align="center"><em>App is only available in German.</italic></div>
 
 This project was part of a special exam in my final school tests.
 
@@ -14,7 +14,7 @@ To use this project, you need to add the OpenCV package for Unity. I used OpenCV
 
 A full documentation can be requested under following email address: daniel.kosin04@gmail.com.
 
-*----------------------------------------------------deutsche Version----------------------------------------------------*
+<div align="center"><em>----------------------------------------------------deutsche Version----------------------------------------------------</em></div>
 
 Dieses Projekt war Teil meiner Besonderen Lernleistung fürs Abitur.
 
