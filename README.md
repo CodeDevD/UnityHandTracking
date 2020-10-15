@@ -4,7 +4,7 @@ An example for marker based hand tracking in Unity for Android
 
 *-----------------------------------------------------English-version-----------------------------------------------------*
 
-<p align="justify">App is only available in German.</p>
+<div align="center">Test App is only available in German.</div>
 
 This project was part of a special exam in my final school tests.
 
