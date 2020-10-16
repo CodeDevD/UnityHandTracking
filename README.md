@@ -13,7 +13,7 @@ An example for marker based hand tracking in Unity for Android
 
 It was created with Unity 2019.2.7f2 and tested on a Xiaomi Mi Mix 2S with Android 10. 
 
-In this project I developed an android app, that allows you to interact with a DNA and an information panel through your own hands. For the Hand tracking you need 2 special Markers. You find the Instructions for the Markers in the /HandInteractionOnDNA/Setup.pdf file. 
+In this project I developed an android app, that allows you to interact with a DNA and an information panel through your own hands. For the Hand tracking you need 2 special Markers. You find the instructions for the Markers in the /HandInteractionOnDNA/Setup.pdf file. 
 To use this project, you need to add the OpenCV package for Unity. I used OpenCV for Unity 2.3.2.
 
 A full documentation(!in german) can be requested under following email address: daniel.kosin04@gmail.com.
