@@ -2,7 +2,9 @@
 
 An example for marker based hand tracking in Unity for Android
 
-![Setup](Setup.jpg)
+<p align="center">
+  <img src="Setup.jpg" width="350" title="Setup">
+</p>
 
 <div align="center"><em>-----------------------------------------------------English version-----------------------------------------------------</em></div>
 <div align="center"><em>App is only available in German.</em></div><br>
@@ -27,3 +29,5 @@ In diesem Projekt habe ich eine Android App erstellt, mit der man durch die eige
 Um das Projekt nutzen zu können, musst du OpenCV for Unity hinzufügen. Ich habe OpenCV for Unity 2.3.2 verwendet.
 
 Eine volle Dokumentation kann über folgende E-Mail angefordert werden: daniel.kosin04@gmail.com.
+
+![](HandTrackingExample.gif)
