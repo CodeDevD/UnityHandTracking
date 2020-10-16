@@ -30,4 +30,4 @@ Um das Projekt nutzen zu können, musst du OpenCV for Unity hinzufügen. Ich hab
 
 Eine volle Dokumentation kann über folgende E-Mail angefordert werden: daniel.kosin04@gmail.com.
 
-<img src="HandTrackingExample.gif" width="100" />
+<img src="HandTrackingExample.gif" width="400" />
