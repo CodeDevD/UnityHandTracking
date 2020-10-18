@@ -1,0 +1,2 @@
+Zugriff auf Kamera
+Wir benötigen den Zugriff auf die Kamera Ihres Gerätes. Bei einer Anfrage werden keine Daten von uns erfasst oder gespeichert. Der Zugriff erfolgt ausschließlich für die Verwendung von Google Play Service for AR.
