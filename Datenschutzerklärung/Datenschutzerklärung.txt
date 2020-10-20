@@ -1,4 +1,4 @@
 Zugriff auf Kamera
 Die App benötigt den Zugriff auf die Kamera Ihres Gerätes. Bei einer Anfrage werden keine Daten von mir erfasst oder gespeichert. Der Zugriff erfolgt ausschließlich für die Verwendung von Google Play Service for AR, welches den Google-Datenschutzbestimmungen unterliegt.
 ------------------
-This application runs on Google Play Services for AR (ARCore), which is provided by Google LLC and governed by the Google Privacy Policy.
+This application runs on Google Play Services for AR (ARCore)(https://play.google.com/store/apps/details?id=com.google.ar.core), which is provided by Google LLC and governed by the Google Privacy Policy(https://policies.google.com/privacy).
