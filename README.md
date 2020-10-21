@@ -16,6 +16,8 @@ It was created with Unity 2019.2.7f2 and tested on a Xiaomi Mi Mix 2S with Andro
 In this project I developed an android app, that allows you to interact with a DNA and an information panel through your own hands. For the Hand tracking you need 2 special Markers. You find the instructions for the Markers in the /HandInteractionOnDNA/Setup.pdf file. 
 To use this project, you need to add the OpenCV package for Unity. I used OpenCV for Unity 2.3.2.
 
+The app to this project is also available in the Google Play Store under following Link: https://play.google.com/store/apps/details?id=com.MRGaming.DNAViewer.
+
 A full documentation(!in german) can be requested under following email address: daniel.kosin04@gmail.com.
 <br />
 <br />
@@ -27,6 +29,8 @@ Es wurde mit Unity 2019.2.7f2 erstellt und auf dem Xiaomi Mi Mix 2S mit der Andr
 
 In diesem Projekt habe ich eine Android App erstellt, mit der man durch die eigenen Hände mit einer DNA und einem Informationspanel interagieren kann. Für das Hand Tracking werden 2 spezielle Marker benötigt. Die Anleitung dazu findet sich in der /HandInteractionOnDNA/Setup.pdf-Datei. 
 Um das Projekt nutzen zu können, musst du OpenCV for Unity hinzufügen. Ich habe OpenCV for Unity 2.3.2 verwendet.
+
+Die App zu diesem Projekt befindet sich auch im Google Play Store unter folgendem Link: https://play.google.com/store/apps/details?id=com.MRGaming.DNAViewer.
 
 Eine volle Dokumentation kann über folgende E-Mail angefordert werden: daniel.kosin04@gmail.com.
 
